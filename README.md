@@ -64,7 +64,9 @@ Dashboard Features;
 4. Emerging economies like India and Brazil are significant contributors to global economic growth.
 
 ## 📷 Dashboard Preview
-![GDP Dashboard](dashboard_image.png)
+
+<img width="966" height="618" alt="dashboard" src="https://github.com/user-attachments/assets/25e5d470-ce1d-4e61-af76-6382f1e7d347" />
+
 ## 🚀 Skills Demonstrated
 1. Web scraping
 2. Data cleaning
